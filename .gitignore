@@ -1,0 +1,5 @@
+*.csv
+spark-warehouse/
+games_old/
+games/*.csv
+.history
